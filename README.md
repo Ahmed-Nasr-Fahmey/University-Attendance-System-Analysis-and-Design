@@ -1,0 +1,2 @@
+# University Attendance System Analysis and Design
+ The University Attendance System Analysis and Design project presents a comprehensive system designed to efficiently manage attendance tracking for both students and employees within a university environment. This project encompasses detailed analysis and thoughtful design of a system that automates attendance monitoring, warning generation, user interaction, and administrative functions.
